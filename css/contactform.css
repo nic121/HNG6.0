@@ -51,8 +51,9 @@ outline: none;
 .submit:hover{
   background: #00AEFF;
   color:white;
-  text-decoration:none ;
+  text-decoration:none;
   box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
+  font-size:16px;
 }
 .material-icons {
   font-size: 18px;
